@@ -83,7 +83,7 @@ int synchronizationSetup()
 
 	memset(&servaddrSync, 0, sizeof(servaddrSync));
 	servaddrSync.sin_family = AF_INET;
-	servaddrSync.sin_addr.s_addr = inet_addr("161.45.162.69"); // sometimes IP 161.45.162.69 works
+	servaddrSync.sin_addr.s_addr = inet_addr("111.11.111.111"); // Note: this is a Fake IP. 
 	servaddrSync.sin_port = htons(4005);
 
 	// Connection of the client to the socket
