@@ -1,7 +1,7 @@
 //Author: Sayali Borase
-//CSCI 6300 - Project Cloud Prototype
+//Project Cloud Prototype
 //File: serverA.cpp
-//serverA is hosted on 161.45.162.69 and listen at port 4000
+//serverA listen at port 4000
 //Port 4005 is dedicated for synchronization
 
 #include <stdio.h>
