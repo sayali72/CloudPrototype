@@ -1,5 +1,5 @@
 //Author: Sayali Borase
-//CSCI 6300 - Project Cloud Prototype
+//Project Cloud Prototype
 //File: client2.cpp
 
 #include <stdio.h>
