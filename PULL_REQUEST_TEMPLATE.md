@@ -3,7 +3,7 @@ Refer [PR Checklist](https://ushrauto-my.sharepoint.com/:w:/p/jclements/Ef22QBLV
 |Done|N/A|Checklist items|
 |-|-|-|
 |Regression Test, UDBI Equality Test|
-|[]|[]|Regression test passed|
+|-[]-[]|Regression test passed|
 |[]|[]|Did not notice any significant setback in executing regression test even if it is passed|
 |[]|[]|Any changes to regression test is taken into account|
 |[]|[]|Assessed the impact of adding new test case on overall regression execution time|
