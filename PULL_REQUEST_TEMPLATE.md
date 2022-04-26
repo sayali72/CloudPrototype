@@ -4,20 +4,18 @@ Refer [PR Checklist](https://ushrauto-my.sharepoint.com/:w:/p/jclements/Ef22QBLV
 |-|-|-|
 |Regression Test, UDBI Equality Test|
 | <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Regression test passed|
-|- []|- []|Did not notice any significant setback in executing regression test even if it is passed|
-|[]|[]|Any changes to regression test is taken into account|
-|[]|[]|Assessed the impact of adding new test case on overall regression execution time|
-|[]|[]|Any changes to UDBI class eq method is taken into account|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Did not notice any significant setback in executing regression test even if it is passed|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Any changes to regression test is taken into account|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Assessed the impact of adding new test case on overall regression execution time|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Any changes to UDBI class eq method is taken into account|
 |Query|
-|[]|[]|All indexes updated|
-|[]|[]|Evaluated the effect on the readability and performance if the query uses JOIN/Subquery/CTE|
-|[]|[]|Database connection closed for dblink query|
-|[]|[]|Considered adding Foreign Data Wrapper|
-|[]|[]|publish_prep deleted and recreated to test the changes|
-|[]|[]|Added table to the appropriate list in publish_udbi.py if the change involves adding new table to publish_prep|
-|[]|[]|Considered different ways of optimizing the query|
-|[]|[]|Ran EXPLAIN on the query|
-|[]|[]|Verified if query is executed on the appropriate database|
-|[]|[]|Properly formatted query (indentation and capitalization of keywords)|
-
-- [ ] Yes
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |All indexes updated|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Evaluated the effect on the readability and performance if the query uses JOIN/Subquery/CTE|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Database connection closed for dblink query|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Considered adding Foreign Data Wrapper|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |publish_prep deleted and recreated to test the changes|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Added table to the appropriate list in publish_udbi.py if the change involves adding new table to publish_prep|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Considered different ways of optimizing the query|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Ran EXPLAIN on the query|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Verified if query is executed on the appropriate database|
+| <ul><li>- [x] </li></ul>| <ul><li>- [x] </li></ul> |Properly formatted query (indentation and capitalization of keywords)|
