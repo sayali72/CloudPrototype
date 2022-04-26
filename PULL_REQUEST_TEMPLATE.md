@@ -19,3 +19,5 @@ Refer [PR Checklist](https://ushrauto-my.sharepoint.com/:w:/p/jclements/Ef22QBLV
 |[]|[]|Ran EXPLAIN on the query|
 |[]|[]|Verified if query is executed on the appropriate database|
 |[]|[]|Properly formatted query (indentation and capitalization of keywords)|
+
+- [] Yes
